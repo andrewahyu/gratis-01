@@ -2664,53 +2664,6 @@ a {
 .cid-tOsL2q7oI0 .copyright {
   color: #bbbbbb;
 }
-.cid-tPh0JoxdxU {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-tPh0JoxdxU .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tPh0JoxdxU .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tPh0JoxdxU .content-wrapper {
-  background: #fafafa;
-}
-@media (max-width: 991px) {
-  .cid-tPh0JoxdxU .content-wrapper .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-tPh0JoxdxU .content-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-tPh0JoxdxU .content-wrapper {
-    padding: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-tPh0JoxdxU .content-wrapper {
-    padding: 5rem 3rem;
-  }
-  .cid-tPh0JoxdxU .content-wrapper .text-wrapper {
-    padding-left: 2rem;
-  }
-}
-.cid-tPh0JoxdxU .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
 .cid-tOt38Jcpr4 .navbar-dropdown {
   position: relative !important;
 }
@@ -3053,6 +3006,53 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-tPh0JoxdxU {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-tPh0JoxdxU .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tPh0JoxdxU .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tPh0JoxdxU .content-wrapper {
+  background: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-tPh0JoxdxU .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tPh0JoxdxU .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-tPh0JoxdxU .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tPh0JoxdxU .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-tPh0JoxdxU .content-wrapper .text-wrapper {
+    padding-left: 2rem;
+  }
+}
+.cid-tPh0JoxdxU .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
 }
 .cid-tOt38IGRIu {
   padding-top: 2rem;
